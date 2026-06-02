@@ -30,4 +30,3 @@ npm install
 npm start
 ```
 
-Add your API key in `.env`:
