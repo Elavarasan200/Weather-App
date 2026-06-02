@@ -2,7 +2,7 @@
 
 A responsive weather app built with **React.js** that shows real-time weather data for any city.
 
-🔗 **Live Demo:** [Elavarasan200.github.io/Weather-App](https://Elavarasan200.github.io/Weather-App)
+🔗 **Live Demo:** [[Elavarasan200.github.io/Weather-App](https://Elavarasan200.github.io/Weather-App)](https://elavarasan200.github.io/weather-app/)
 
 ---
 
